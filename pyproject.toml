@@ -16,6 +16,8 @@ dependencies = [
     "python-dotenv",
     "openpyxl",
     "xlrd",
+    "statsmodels",
+    "scikit-learn"
 ]
 
 [build-system]
