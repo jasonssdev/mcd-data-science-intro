@@ -17,7 +17,9 @@ dependencies = [
     "openpyxl",
     "xlrd",
     "statsmodels",
-    "scikit-learn"
+    "scikit-learn",
+    "requests",
+    "beautifulsoup4",
 ]
 
 [build-system]
