@@ -263,3 +263,6 @@ $RECYCLE.BIN/
 
 # Ignnore  db
 data/db/*
+
+#users
+drivers/chromedriver
