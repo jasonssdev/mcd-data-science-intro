@@ -22,6 +22,9 @@ dependencies = [
     "beautifulsoup4",
     "webdriver-manager",
     "selenium",
+    "undetected-chromedriver",
+    "pytest-playwright",
+    "playwright",
 ]
 
 [build-system]
